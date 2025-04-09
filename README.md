@@ -40,14 +40,4 @@
 
 
 ###
-<p><strong>Saiba mais sobre mim:</strong></p>
-<div align="left">
-  <a href="https://seuportifolio.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=🌐 Acessar+Portfólio&label=&color=A6A6A6&style=for-the-badge" height="35" alt="botão portfólio" />
-  </a>
-</div>
 
-
-
-
-###
